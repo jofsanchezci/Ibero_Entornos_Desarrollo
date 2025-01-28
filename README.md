@@ -7,4 +7,5 @@ Este repositorio contiene los archivos de ejemplo para la sesión del 28 de Ener
 ## Comparación entre un lenguaje compilado y un lenguaje interpretado
  - revisar material y grabación
 
- 
+ ## Enlace repositorio de pruebas
+  - https://github.com/jofsanchezci/Pruebas_SW_Ibero.git
